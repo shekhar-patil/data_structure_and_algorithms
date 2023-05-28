@@ -9,6 +9,6 @@ class Solution:
           self.head = self.head.next
         else:
           itr = self.head
-          while itr.next.val == node.val:
+          while itr.next.val != node.val:
             itr = itr.next
           itr.next = itr.next.next
