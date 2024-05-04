@@ -8,19 +8,40 @@
    - Counting Sort
    - Radix Sort
 
-2. **Searching Algorithms**:
+2. **Data Structures**:
+   - Arrays
+   - Linked Lists 
+      - [Singly Linked Lists](/data_structures/linked_list/singly_linked_list.go)
+      - Doubly Linked Lists
+   - Stacks
+   - Queues
+   - Trees 
+      - Binary Trees
+      - Binary Search Trees
+      - AVL Trees
+      - Red-Black Trees
+   - Graphs 
+      - Directed Graphs
+      - Undirected Graphs
+   - Hash Tables
+   - Heaps 
+      - Min-Heap 
+      - Max-Heap
+   - Trie
+
+3. **Searching Algorithms**:
    - Linear Search
    - Binary Search
    - Depth-First Search (DFS)
    - Breadth-First Search (BFS)
 
-3. **Graph Algorithms**:
+4. **Graph Algorithms**:
    - Depth-First Search (DFS)
    - Breadth-First Search (BFS)
    - Shortest Path Algorithms (Dijkstra's, Bellman-Ford)
    - Minimum Spanning Tree Algorithms (Prim's, Kruskal's)
 
-4. **Dynamic Programming**:
+5. **Dynamic Programming**:
    - Fibonacci Series
    - Longest Common Subsequence (LCS)
    - Knapsack Problem
@@ -29,30 +50,19 @@
    - Edit Distance
    - Longest Increasing Subsequence (LIS)
 
-5. **Recursion**:
+6. **Recursion**:
    - Factorial
    - Fibonacci Series
    - Tower of Hanoi
    - Permutations and Combinations
 
-6. **Data Structures**:
-   - Arrays
-   - Linked Lists (Singly Linked Lists, Doubly Linked Lists)
-   - Stacks
-   - Queues
-   - Trees (Binary Trees, Binary Search Trees, AVL Trees, Red-Black Trees)
-   - Graphs (Directed Graphs, Undirected Graphs)
-   - Hash Tables
-   - Heaps (Min-Heap, Max-Heap)
-   - Trie
-
-7. **Bit Manipulation**:
+6. **Bit Manipulation**:
    - Bitwise AND, OR, XOR
    - Bitwise Shifts
    - Bitwise Operators for Setting, Clearing, and Toggling Bits
    - Finding the Bit Representation of a Number
 
-8. **String Algorithms**:
+7. **String Algorithms**:
    - String Matching Algorithms (Naive, Rabin-Karp, Knuth-Morris-Pratt)
    - Longest Common Subsequence (LCS)
    - Longest Palindromic Substring
