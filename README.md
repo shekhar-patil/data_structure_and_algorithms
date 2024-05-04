@@ -1,8 +1,8 @@
 1. **Sorting Algorithms**:
-   - (Bubble Sort)[https://github.com/shekhar-patil/data-structure/blob/main/algorithms/sorting/bubble_sort.go]
+   - [Bubble Sort](https://github.com/shekhar-patil/data-structure/blob/main/algorithms/sorting/bubble_sort.go)
    - Selection Sort
    - Insertion Sort
-   - (Merge Sort)[https://github.com/shekhar-patil/data-structure/blob/main/algorithms/sorting/merge_sort.go]
+   - [Merge Sort](https://github.com/shekhar-patil/data-structure/blob/main/algorithms/sorting/merge_sort.go)
    - Quick Sort
    - Heap Sort
    - Counting Sort
