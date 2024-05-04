@@ -1,8 +1,8 @@
 1. **Sorting Algorithms**:
-   - [Bubble Sort](https://github.com/shekhar-patil/data-structure/blob/main/algorithms/sorting/bubble_sort.go)
+   - [Bubble Sort](/sorting_algorithms/bubble_sort.go)
    - Selection Sort
    - Insertion Sort
-   - [Merge Sort](https://github.com/shekhar-patil/data-structure/blob/main/algorithms/sorting/merge_sort.go)
+   - [Merge Sort](/sorting_algorithms/merge_sort.go)
    - Quick Sort
    - Heap Sort
    - Counting Sort
@@ -11,11 +11,12 @@
 2. **Data Structures**:
    - Arrays
    - Linked Lists 
-      - [Singly Linked Lists](/data_structures/linked_list/singly_linked_list.go)
+      - [Singly Linked Lists](/data_structures/linked_list/golang/singly_linked_list.go)
       - Doubly Linked Lists
    - Stacks
    - Queues
    - Trees 
+      - [General Trees](/data_structures/trees/general_trees/python/general_tree.py)
       - Binary Trees
       - Binary Search Trees
       - AVL Trees
