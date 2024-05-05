@@ -3,7 +3,7 @@
    - Selection Sort
    - Insertion Sort
    - [Merge Sort](/sorting_algorithms/merge_sort.go)
-   - Quick Sort
+   - [Quick Sort](/sorting_algorithms/quick_sort.go)
    - Heap Sort
    - Counting Sort
    - Radix Sort
