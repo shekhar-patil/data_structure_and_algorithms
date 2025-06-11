@@ -1,71 +1,121 @@
-1. **Sorting Algorithms**:
-   - [Bubble Sort](/sorting_algorithms/bubble_sort.go)
-   - Selection Sort
-   - Insertion Sort
-   - [Merge Sort](/sorting_algorithms/merge_sort.go)
-   - [Quick Sort](/sorting_algorithms/quick_sort.go)
-   - Heap Sort
-   - Counting Sort
-   - Radix Sort
+## 1. **Data Structures**
 
-2. **Data Structures**:
-   - Arrays
-   - Linked Lists 
-      - [Singly Linked Lists](/data_structures/linked_list/golang/singly_linked_list.go)
-      - Doubly Linked Lists
-   - Stacks
-   - Queues
-   - Trees 
-      - [General Trees](/data_structures/trees/general_trees/python/general_tree.py)
-      - Binary Trees
-      - Binary Search Trees
-      - AVL Trees
-      - Red-Black Trees
-   - Graphs 
-      - Directed Graphs
-      - Undirected Graphs
-   - Hash Tables
-   - Heaps 
-      - Min-Heap 
-      - Max-Heap
-   - Trie
+- Arrays *(Coming Soon)*
+- [Linked Lists]
+  - [Singly Linked Lists](/data_structures/linked_list/golang/singly_linked_list.go)
+  - [Doubly Linked Lists](data-structures/linked-list/doubly-linked-list)
+  - [Circular Linked Lists](data-structures/linked-list/circular-linked-list)
+- [Stacks](data-structures/stack)
+- Queues *(Coming Soon)*
+- Trees
+  - [General Trees](/data_structures/trees/general_trees/python/general_tree.py)
+  - Binary Trees *(Coming Soon)*
+  - Binary Search Trees *(Coming Soon)*
+- Graphs
+  - Directed Graphs *(Coming Soon)*
+  - Undirected Graphs *(Coming Soon)*
+- Hash Tables *(Coming Soon)*
+- Heaps
+  - Min-Heap *(Coming Soon)*
+  - Max-Heap *(Coming Soon)*
+- Trie *(Coming Soon)*
 
-3. **Searching Algorithms**:
-   - Linear Search
-   - Binary Search
-   - Depth-First Search (DFS)
-   - Breadth-First Search (BFS)
+---
 
-4. **Graph Algorithms**:
-   - Depth-First Search (DFS)
-   - Breadth-First Search (BFS)
-   - Shortest Path Algorithms (Dijkstra's, Bellman-Ford)
-   - Minimum Spanning Tree Algorithms (Prim's, Kruskal's)
+## 2. **Sorting Algorithms**
 
-5. **Dynamic Programming**:
-   - Fibonacci Series
-   - Longest Common Subsequence (LCS)
-   - Knapsack Problem
-   - Coin Change Problem
-   - Matrix Chain Multiplication
-   - Edit Distance
-   - Longest Increasing Subsequence (LIS)
+- [Bubble Sort](/sorting_algorithms/bubble_sort.go)
+- Selection Sort *(Coming Soon)*
+- [Insertion Sort](/sorting_algorithms/insertion_sort.go)
+- [Merge Sort](/sorting_algorithms/merge_sort.go)
+- [Quick Sort](/sorting_algorithms/quick_sort.go)
+- Heap Sort *(Coming Soon)*
+- Counting Sort *(Coming Soon)*
+- Radix Sort *(Coming Soon)*
+- Topological Sort *(Coming Soon)*
 
-6. **Recursion**:
-   - Factorial
-   - Fibonacci Series
-   - Tower of Hanoi
-   - Permutations and Combinations
+---
 
-6. **Bit Manipulation**:
-   - Bitwise AND, OR, XOR
-   - Bitwise Shifts
-   - Bitwise Operators for Setting, Clearing, and Toggling Bits
-   - Finding the Bit Representation of a Number
+## 3. **Searching Algorithms**
 
-7. **String Algorithms**:
-   - String Matching Algorithms (Naive, Rabin-Karp, Knuth-Morris-Pratt)
-   - Longest Common Subsequence (LCS)
-   - Longest Palindromic Substring
-   - String Manipulation (Reversal, Rotation)
+- Linear Search *(Coming Soon)*
+- Binary Search *(Coming Soon)*
+- Exponential Search *(Coming Soon)*
+- Ternary Search *(Coming Soon)*
 
+---
+
+## 4. **Graph Algorithms**
+
+- Depth-First Search (DFS) *(Coming Soon)*
+- Breadth-First Search (BFS) *(Coming Soon)*
+- [Dijkstra's Algorithm](graph-algorithms/dijkstra-algorithm)
+- Bellman-Ford Algorithm *(Coming Soon)*
+- Prim's Algorithm *(Coming Soon)*
+- Kruskal's Algorithm *(Coming Soon)*
+- Floyd-Warshall Algorithm *(Coming Soon)*
+- Union-Find / Disjoint Set Union (DSU) *(Coming Soon)*
+- Tarjan’s Algorithm *(Coming Soon)*
+- Kosaraju’s Algorithm *(Coming Soon)*
+
+---
+
+## 5. **Dynamic Programming Algorithms**
+
+- Kadane's Algorithm *(Coming Soon)*
+- 0/1 Knapsack *(Coming Soon)*
+
+---
+
+## 6. **Greedy Algorithms**
+
+- Activity Selection *(Coming Soon)*
+- Huffman Coding *(Coming Soon)*
+- Fractional Knapsack *(Coming Soon)*
+- Job Sequencing *(Coming Soon)*
+- Egyptian Fraction *(Coming Soon)*
+
+---
+
+## 7. **Backtracking Algorithms**
+
+- N-Queens Problem *(Coming Soon)*
+- Sudoku Solver *(Coming Soon)*
+- Rat in a Maze *(Coming Soon)*
+- Word Search *(Coming Soon)*
+- Subset Generation *(Coming Soon)*
+- Permutation Generation *(Coming Soon)*
+
+---
+
+## 8. **Bit Manipulation Algorithms**
+
+- Count Set Bits *(Coming Soon)*
+- Check Power of Two *(Coming Soon)*
+- XOR of All Numbers in Range *(Coming Soon)*
+- Find Missing Number *(Coming Soon)*
+- Find Two Non-Repeating Elements *(Coming Soon)*
+
+---
+
+## 9. **String Algorithms**
+
+- Naive Pattern Matching *(Coming Soon)*
+- Rabin-Karp Algorithm *(Coming Soon)*
+- Knuth-Morris-Pratt (KMP) Algorithm *(Coming Soon)*
+- Z-Algorithm *(Coming Soon)*
+- Longest Palindromic Substring *(Coming Soon)*
+- Anagram Check *(Coming Soon)*
+- Manacher’s Algorithm *(Coming Soon)*
+- Suffix Array & Suffix Tree *(Coming Soon)*
+
+---
+
+## 10. **Miscellaneous Must-Know Algorithms**
+
+- Sliding Window Technique *(Coming Soon)*
+- Two Pointer Technique *(Coming Soon)*
+- Fast & Slow Pointers (Cycle Detection) *(Coming Soon)*
+- Reservoir Sampling *(Coming Soon)*
+- Fisher-Yates Shuffle *(Coming Soon)*
+- Boyer-Moore Majority Voting *(Coming Soon)*
