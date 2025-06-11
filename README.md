@@ -1,7 +1,7 @@
 ## 1. **Data Structures**
 
 - Arrays *(Coming Soon)*
-- [Linked Lists]
+- Linked Lists
   - [Singly Linked Lists](/data_structures/linked_list/golang/singly_linked_list.go)
   - [Doubly Linked Lists](data-structures/linked-list/doubly-linked-list)
   - [Circular Linked Lists](data-structures/linked-list/circular-linked-list)
