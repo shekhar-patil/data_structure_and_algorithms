@@ -1,27 +1,27 @@
 package main
 
-import "fmt"
+import (
+  "fmt"
+)
 
-// binarySearch searches for a target value in a sorted slice.
-// It returns the index of the target if found, otherwise -1.
 func binarySearch(nums []int, target int) int {
-  low, high := 0, len(nums)-1
+  low, high := 0, len(nums) - 1
 
-  for low <= high {
-    mid := low + (high-low)/2
+    for low <= high {
+        mid := (low + high) / 2
 
-    if nums[mid] == target {
-      return mid // Target found
+        if nums[mid] == target {
+        return mid
+        }
+
+        if nums[mid] > target {
+        high = mid - 1
+        } else {
+            low = mid + 1
+        }
     }
 
-    if nums[mid] > target {
-      high = mid - 1 // Search in the left half
-    } else {
-      low = mid + 1 // Search in the right half
-    }
-  }
-
-  return -1 // Target not found
+  return -1
 }
 
 func main() {
